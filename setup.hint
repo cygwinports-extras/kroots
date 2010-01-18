@@ -1,0 +1,6 @@
+category: Math
+requires: libgcc1 libkdecore5 libQtCore4 libQtGui4 libstdc++6
+sdesc: "KDE complex number root calculator"
+ldesc: "KRoots finds all the roots of a complex number and graphs them 
+on the real/imaginary axis. It supports both the a + bi format and the r 
+cis o format. KRoots can also be used to create regular polygons."
