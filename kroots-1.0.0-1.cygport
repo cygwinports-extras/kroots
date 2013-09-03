@@ -1,6 +1,0 @@
-inherit kde4
-
-DESCRIPTION="KDE complex number root calculator"
-HOMEPAGE="http://kde-apps.org/content/show.php/Kroots?content=116086"
-SRC_URI="http://kde-apps.org/CONTENT/content-files/116086-${P}.tar.gz"
-PATCH_URI="1.0.0-include-directories.patch"

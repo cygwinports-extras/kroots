@@ -1,0 +1,13 @@
+inherit kde4
+
+NAME="kroots"
+VERSION=1.5.0
+RELEASE=1
+CATEGORY="Math"
+SUMMARY="KDE complex number root calculator"
+DESCRIPTION="KRoots finds all the roots of a complex number and graphs them on
+the real/imaginary axis. It supports both the a + bi format and the r cis o
+format. KRoots can also be used to create regular polygons."
+HOMEPAGE="http://kde-apps.org/content/show.php/Kroots?content=116086"
+SRC_URI="http://kde-apps.org/CONTENT/content-files/116086-kroots-${VERSION}.tar.gz"
+PATCH_URI="1.5.0-cmake.patch"

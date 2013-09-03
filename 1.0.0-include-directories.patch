@@ -1,8 +1,0 @@
---- origsrc/kroots-1.0.0/src/CMakeLists.txt	2009-06-27 06:10:00.000000000 -0500
-+++ src/kroots-1.0.0/src/CMakeLists.txt	2010-01-18 01:53:38.711918900 -0600
-@@ -1,3 +1,5 @@
-+include_directories(${KDE4_INCLUDES})
-+
- set(kroots_SRCS
-    kroots.cpp
-    main.cpp
